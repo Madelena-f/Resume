@@ -56,7 +56,7 @@ main {
 }
 
 #desk {
-    position: absolute;
+    position: relative;
     width: 95vw;
     margin-top: -10px;
     justify-items: center;
