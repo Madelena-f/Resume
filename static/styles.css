@@ -21,6 +21,15 @@ main {
     
 }
 
+#sideRight {
+    background-color: white;
+    height: 100vh;
+    width: 30vw;
+    background-image: linear-gradient(to left,white, rgb(114, 114, 114));
+    
+}
+
+
 #header {
     display: flex;
     flex-direction: row;
@@ -35,11 +44,7 @@ main {
 
 }
 
-#sideRight {
-    background-color: white;
-    height: 100vh;
-    width: 30vw;
-    background-image: linear-gradient(to left,white, rgb(114, 114, 114));
-    
+#desk {
+    width: 80vw;
+    z-index: -1;
 }
-
