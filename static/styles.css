@@ -38,13 +38,19 @@ main {
 .header {
     font-size: xx-large;
 }
-
+#imgaes {
+    position: relative;
+    top: 0;
+    bottom: 0;
+}
 #computer {
+    position: relative;
     width: 20vw;
 
 }
 
 #desk {
+    position: relative;
     width: 80vw;
     z-index: -1;
 }
