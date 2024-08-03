@@ -37,6 +37,10 @@ main {
     text-align: center;
     justify-content: center;
     justify-items: center;
+    font-size: 5vw;
+}
+
+.header {
     font-size: 15vw;
 }
     
