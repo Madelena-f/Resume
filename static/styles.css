@@ -36,7 +36,8 @@ main {
     display: flex;
     text-align: center;
     font-size: 5vw;
-    top: -500vh
+    margin-top: 0;
+    top: -150vh;
 }
 
 .header {
