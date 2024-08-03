@@ -54,9 +54,8 @@ main {
 #desk {
     position: relative;
     width: 95vw;
-    top: 50px;
-    left: 100px;
-    right: 100px;
+    top: 30px;
+    justify-items: center;
     
     
 }
