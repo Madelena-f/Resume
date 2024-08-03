@@ -37,6 +37,7 @@ main {
     text-align: center;
     justify-content: center;
     justify-items: center;
+    vertical-align: text-top;
     font-size: 5vw;
 }
 
