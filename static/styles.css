@@ -41,12 +41,12 @@ main {
 }
 
 .header {
-    font-size: 10vw;
+    font-size: 5vw;
 }
     
     
 #images {
-    position: relative;
+    position: absolute;
     top: 0;
     bottom: 0;
     justify-content: center;
@@ -69,8 +69,6 @@ main {
     position: absolute;
     width: 95vw;
     top: -5vh;
-    left: 0;
-    right: 0;
     margin-left: auto;
     margin-right: auto;
     
