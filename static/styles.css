@@ -31,7 +31,7 @@ main {
 
 
 #header {
-    display: block;
+    display: inline-block;
     text-align: center;
 }
     
@@ -47,18 +47,21 @@ main {
     justify-content: center;
 }
 #computer {
-    position: relative;
+    position: absolute;
     width: 20vw;
     z-index: 1;
     margin: 0;
+    left: 0;
+    right: 0;
 
 }
 
 #desk {
-    position: relative;
+    position: absolute;
     width: 95vw;
     top: -450px;
-    justify-items: center;
+    left: 0;
+    right: 0;
     
     
 }
