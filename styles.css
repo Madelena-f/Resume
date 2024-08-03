@@ -12,11 +12,19 @@ main {
     flex-direction: column;
 }
 
-.sideDiv {
+#sideLeft {
     background-color: white;
     height: 100vh;
     width: 30vw;
     background-image: linear-gradient(to right,white, rgb(114, 114, 114));
+    
+}
+
+#sideRight {
+    background-color: white;
+    height: 100vh;
+    width: 30vw;
+    background-image: linear-gradient(to left,white, rgb(114, 114, 114));
     
 }
 
