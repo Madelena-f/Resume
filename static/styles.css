@@ -21,9 +21,13 @@ main {
     
 }
 
-#header{
+#header {
     display: flex;
     flex-direction: row;
+}
+
+.header {
+    font-size: xx-large;
 }
 
 #computer {
