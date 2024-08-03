@@ -70,7 +70,8 @@ main {
     position: absolute;
     width: 95vw;
     top: -7vh;
-    right: 30vw;
+    left: 0;
+    right: 0;
     margin-left: auto;
     margin-right: auto;
     
