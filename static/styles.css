@@ -35,9 +35,8 @@ main {
 #header {
     display: flex;
     text-align: center;
-    justify-content: center;
+    justify-content: top;
     justify-items: center;
-    vertical-align: text-top;
     font-size: 5vw;
 }
 
