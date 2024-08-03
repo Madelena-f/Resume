@@ -35,13 +35,10 @@ main {
     text-align: center;
     justify-content: center;
     justify-items: center;
-}
-    
-    
-
-.header {
     font-size: 15vw;
 }
+    
+    
 #images {
     display: block;
     position: relative;
