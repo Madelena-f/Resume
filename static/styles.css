@@ -31,8 +31,10 @@ main {
 
 
 #header {
-    display: inline;
+    display: flex;
     text-align: center;
+    justify-content: center;
+    justify-items: center;
 }
     
     
