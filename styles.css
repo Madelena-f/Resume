@@ -1,12 +1,16 @@
 body {
     background-color: white;
-    display: inline-block
+    display: flex;
+    flex-direction: row;
 }
 
 .middleDiv {
     background-color: rgb(220, 159, 255);
+    height: 100vh;
+    border: solid;
 }
 
 .sideDiv {
     background-color: white;
+    height: 100vh;
 }
