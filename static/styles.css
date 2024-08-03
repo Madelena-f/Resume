@@ -26,6 +26,10 @@ main {
     flex-direction: row;
 }
 
+#computer {
+    width: 5vw;
+}
+
 #sideRight {
     background-color: white;
     height: 100vh;
