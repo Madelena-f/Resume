@@ -1,3 +1,12 @@
 body {
-    background-color: black;
+    background-color: white;
+    display: inline-block
+}
+
+.middleDiv {
+    background-color: rgb(220, 159, 255);
+}
+
+.sideDiv {
+    background-color: white;
 }
