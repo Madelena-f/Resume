@@ -51,8 +51,7 @@ main {
     position: absolute;
     top: 0;
     bottom: 0;
-    justify-content: center;
-    justify-items: center;
+    
 }
 #computer {
     position: absolute;
