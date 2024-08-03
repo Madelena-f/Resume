@@ -31,13 +31,11 @@ main {
 
 
 #header {
-    display: flex;
-    flex-direction: row;
-    
-}
-#header.container{
+    display: block;
     text-align: center;
 }
+    
+    
 
 .header {
     font-size: 15vw;
