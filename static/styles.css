@@ -46,11 +46,11 @@ main {
 #computer {
     position: relative;
     width: 20vw;
+    z-index: 1;
 
 }
 
 #desk {
     position: relative;
     width: 80vw;
-    z-index: -1;
 }
