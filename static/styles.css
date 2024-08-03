@@ -33,6 +33,10 @@ main {
 #header {
     display: flex;
     flex-direction: row;
+    
+}
+#header.container{
+    text-align: center;
 }
 
 .header {
