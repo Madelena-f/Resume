@@ -36,6 +36,7 @@ main {
     display: flex;
     text-align: center;
     font-size: 5vw;
+    top: -100vh
 }
 
 .header {
@@ -66,7 +67,7 @@ main {
 #desk {
     position: absolute;
     width: 95vw;
-    top: -50vw;
+    top: -50vh;
     left: 0;
     right: 0;
     margin-left: auto;
