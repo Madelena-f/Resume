@@ -8,7 +8,7 @@ body {
     background-color: rgb(220, 159, 255);
     height: 100vh;
     width: 70vw;
-    
+    z-index:-1
 }
 
 .sideDiv {
@@ -16,4 +16,9 @@ body {
     height: 100vh;
     width: 30vw;
     border: solid;
+}
+
+main {
+    height: 100vh;
+    width: 70vw;
 }
