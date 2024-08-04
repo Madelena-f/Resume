@@ -11,6 +11,19 @@
         <link href="static/styles.css" rel="stylesheet" type="text/css">
             
         <title>Homepage</title>
+        
+        <script>
+            
+            document.addEventListener('DOMContentLoaded', function() {
+                let canvas = document.getElementById("myCanvas");
+                let ctx = canvas.getContext("2d");
+                ctx.fillStyle = "#FF0000";
+                ctx.fillRect(0, 0, 80, 80);
+            });
+
+        </script>
+
+
      </head>
     
     <body>
@@ -31,6 +44,10 @@
                     <map name="map">
                         <area shape="poly" coords="379,109,722,150,721,378,586,357,582,393,625,401,584,434,477,413,514,391,530,390,530,353,372,330" href="resume.html" alt="Resume">   
                     </map> 
+
+                    <canvas>
+
+                    </canvas>
                     
             </div>
         </main> 
