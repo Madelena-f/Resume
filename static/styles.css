@@ -58,13 +58,6 @@ main {
 	border-right: 25px solid transparent;
 	height: 0;
 	width: 125px;
-
-    position: relative;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    z-index: 2;
     
 }
 
