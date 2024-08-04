@@ -53,8 +53,8 @@ main {
 }
 
 canvas {
-    width: 1000px;
-    height: 1000px;
+    width: 750px;
+    height: 750px;
     position: absolute;
     top: 0;
     left: 0;
