@@ -20,7 +20,11 @@
                 ctx.fillStyle = 'white';
                 ctx.fillRect(0, 0, 80, 80);
 
-                
+                var light = doument.getElementById("light");
+
+                light.addEventListener('onmouseover'), function(){
+                    canvas.style.display = "block"
+                }
 
             });
 
@@ -46,7 +50,7 @@
 
                     <map name="map">
                         <area shape="poly" coords="379,109,722,150,721,378,586,357,582,393,625,401,584,434,477,413,514,391,530,390,530,353,372,330" href="resume.html" alt="Resume"> 
-                        <area shape="poly" coords="213,128,236,114,262,138,299,147,311,165,296,187,269,210,234,221,229,196,224,165" >
+                        <area name="light" shape="poly" coords="213,128,236,114,262,138,299,147,311,165,296,187,269,210,234,221,229,196,224,165" >
                     </map> 
 
                     <canvas>
