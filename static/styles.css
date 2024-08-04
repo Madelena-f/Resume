@@ -53,7 +53,7 @@ main {
 }
 
 canvas {
-    display: none;
+   
     width: 750px;
     height: 750px;
     position: absolute;
