@@ -52,10 +52,18 @@ main {
     
 }
 
-#parallelogram {
-	width: 100px;
-	height: 50px;
-	transform: skew(20deg);
-	background: #555;
+.trapezoid {
+	border-bottom: 100px solid #f5ff6860;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 2;
 }
 
