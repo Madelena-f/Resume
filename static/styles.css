@@ -62,7 +62,7 @@ main {
 
 }
 
-rect {
+map {
     color: white;
     z-index: 2;
 }
