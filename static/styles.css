@@ -64,4 +64,5 @@ main {
 
 rect {
     color: white;
+    z-index: 2;
 }
