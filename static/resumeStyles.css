@@ -6,7 +6,7 @@ body {
 
 main {
     background-color: rgb(220, 159, 255);
-    height: 100vh;
+    height: 150vh;
     width: 90vw;
     display: flex;
     flex-direction: column;
@@ -17,7 +17,7 @@ main {
 
 #sideLeft {
     background-color: white;
-    height: 100vh;
+    height: 150vh;
     width: 30vw;
     background-image: linear-gradient(to right,white, rgb(114, 114, 114));
     
@@ -25,7 +25,7 @@ main {
 
 #sideRight {
     background-color: white;
-    height: 100vh;
+    height: 150vh;
     width: 30vw;
     background-image: linear-gradient(to left,white, rgb(114, 114, 114));
     
