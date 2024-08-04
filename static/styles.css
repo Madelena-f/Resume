@@ -52,7 +52,7 @@ main {
     
 }
 
-.parallelogram {
+#parallelogram {
 	width: 100px;
 	height: 50px;
 	transform: skew(20deg);
