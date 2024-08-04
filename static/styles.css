@@ -44,13 +44,14 @@ main {
    
     
 #image {
-    position: absolute;
+    position: relative;
     top: 0;
     bottom: 0;
     
 }
 
 canvas {
+    position: relative;
     z-index: 2;
     border: solid;
 }
