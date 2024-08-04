@@ -47,7 +47,7 @@ main {
 }
     
     
-#images {
+#image {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -66,14 +66,3 @@ main {
 
 }
 
-#desk {
-    position: absolute;
-    width: 95vw;
-    top: -7vh;
-    left: 0;
-    right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    
-    
-}
