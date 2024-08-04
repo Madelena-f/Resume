@@ -52,17 +52,10 @@ main {
     
 }
 
-canvas {
-    visibility: hidden;
-    width: 750px;
-    height: 750px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    z-index: 2;
-    border: solid;
+.parallelogram {
+	width: 100px;
+	height: 50px;
+	transform: skew(20deg);
+	background: #555;
 }
 
