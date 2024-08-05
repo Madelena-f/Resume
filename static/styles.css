@@ -63,8 +63,8 @@ main {
     position: relative;
     left: 0;
     right: 0;
-    bottom: 500px;
-    top: -100px;
+    bottom: 0;
+    top: -1000px;
     margin: auto;
     
 }
