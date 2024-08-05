@@ -65,7 +65,7 @@ main {
     right: 0;
     bottom: 0;
     top: -850px;
-    transform: rotate(-50px);
+    transform: rotate(315deg);
     margin: auto;
     
 }
