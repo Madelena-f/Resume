@@ -61,10 +61,10 @@ main {
 
     z-index: 2;
     position: relative;
-    left: -185px;
+    left: -182.5px;
     right: 0;
     bottom: 0;
-    top: -850px;
+    top: -847.5px;
     transform: rotate(320deg);
     margin: auto;
     
