@@ -53,9 +53,9 @@ main {
 }
 
 #trapezoid {
-	border-bottom: 300px solid #f5ff6860;
-	border-left: 45px solid transparent;
-	border-right: 45px solid transparent;
+	border-bottom: 250px solid #f5ff6860;
+	border-left: 60px solid transparent;
+	border-right: 60px solid transparent;
 	height: 0;
 	width: 300px;
 
