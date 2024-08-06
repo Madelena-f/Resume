@@ -29,16 +29,18 @@
                 }
             
             function fadeText() {
-                var header = document.getElementById("header")
-                while (true) {
+                setInterval(function () {
+                    var header = document.getElementById("header")
+                    
                     if (header.style.opacity === "1") {
                         header.style.display = "0";
                     } else {
                         header.style.display = "1";
                     }
-                }
-                
+                }, 0)
             }
+                
+            
             
         </script>
 
