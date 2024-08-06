@@ -15,7 +15,15 @@
         <script>
 
             document.addEventListener('DOMContentLoaded', function() {
-                
+                    
+                    var header = document.getElementById("header")
+                        for (var i=0; i<Infinity; i++) {
+                        if (header.style.opacity === "1") {
+                            header.style.display = "0";
+                        } else {
+                            header.style.display = "1";
+                        }
+                    }
                 
             });
 
@@ -28,17 +36,7 @@
                     }
                 }
             
-            function fadeText() {
-                
-                    var header = document.getElementById("header")
-                    
-                    if (header.style.opacity === "1") {
-                        header.style.display = "0";
-                    } else {
-                        header.style.display = "1";
-                    }
-                
-            }
+          
                 
             
             
@@ -52,9 +50,9 @@
         <div id="sideLeft"></div>  
 
         <main>
-            <div id="header" onload="fadeText()" >
+            <div id="header">
                
-                CILCK COMPUTER TO SEE RESUME</h1>
+                CLICK COMPUTER TO SEE RESUME</h1>
         
             </div>
 
