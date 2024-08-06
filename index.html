@@ -16,12 +16,7 @@
 
             document.addEventListener('DOMContentLoaded', function() {
                 
-                var header = document.getElementById("header")
-                if (header.style.opacity === "1") {
-                    header.style.display = "0";
-                } else {
-                    header.style.display = "1";
-                        }
+                
             });
 
             function showLight() {
@@ -33,6 +28,16 @@
                     }
                 }
             
+            function fadeText() {
+                var header = document.getElementById("header")
+                if (header.style.opacity === "1") {
+                    header.style.display = "0";
+                } else {
+                    header.style.display = "1";
+                }
+                
+            }
+            
         </script>
 
 
@@ -43,7 +48,7 @@
         <div id="sideLeft"></div>  
 
         <main>
-            <div id="header">
+            <div id="header" onload="fadeText()">
                
                 CILCK COMPUTER TO SEE RESUME</h1>
         
