@@ -30,10 +30,12 @@
             
             function fadeText() {
                 var header = document.getElementById("header")
-                if (header.style.opacity === "1") {
-                    header.style.display = "0";
-                } else {
-                    header.style.display = "1";
+                while (true) {
+                    if (header.style.opacity === "1") {
+                        header.style.display = "0";
+                    } else {
+                        header.style.display = "1";
+                    }
                 }
                 
             }
@@ -48,7 +50,7 @@
         <div id="sideLeft"></div>  
 
         <main>
-            <div id="header" onload="fadeText()">
+            <div id="header" onload="fadeText()" >
                
                 CILCK COMPUTER TO SEE RESUME</h1>
         
