@@ -68,11 +68,11 @@ main {
 
     z-index: 2;
     position: relative;
-    left: -170px;
+    left: -175px;
     right: 0;
     bottom: 0;
-    top: -800px;
-    transform: rotate(325deg);
+    top: -890px;
+    transform: rotate(320deg);
     margin: auto;
     
 }
