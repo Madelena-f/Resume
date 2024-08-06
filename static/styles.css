@@ -68,10 +68,10 @@ main {
 
     z-index: 2;
     position: relative;
-    left: -210px;
+    left: -220px;
     right: 0;
     bottom: 0;
-    top: -780px;
+    top: -770px;
     transform: rotate(320deg);
     margin: auto;
     
