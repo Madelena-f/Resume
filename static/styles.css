@@ -61,8 +61,8 @@ main {
 
 #trapezoid {
 	border-bottom: 200px solid #f5ff6860;
-	border-left: 100px solid transparent;
-	border-right: 100px solid transparent;
+	border-left: 110px solid transparent;
+	border-right: 110px solid transparent;
 	height: 0;
 	width: 300px;
 
@@ -71,7 +71,7 @@ main {
     left: -175px;
     right: 0;
     bottom: 0;
-    top: -890px;
+    top: -870px;
     transform: rotate(320deg);
     margin: auto;
     
