@@ -68,12 +68,12 @@ main {
 
     z-index: 2;
     position: relative;
-    left: -181px;
+    left: -190px;
     right: 0;
     bottom: 0;
-    top: -850px;
+    top: -800px;
     transform: rotate(325deg);
-    margin: auto;
+    margin: 0;
     
 }
 
