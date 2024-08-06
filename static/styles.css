@@ -73,7 +73,7 @@ main {
     bottom: 0;
     top: -800px;
     transform: rotate(325deg);
-    margin: 0;
+    margin: auto;
     
 }
 
