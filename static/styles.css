@@ -55,7 +55,7 @@ main {
     right: 0;
     bottom: 0;
     top: 0;
-    margin: auto;
+    margin: 0;
     
 }
 
@@ -68,7 +68,7 @@ main {
 
     z-index: 2;
     position: relative;
-    left: -190px;
+    left: -185px;
     right: 0;
     bottom: 0;
     top: -800px;
