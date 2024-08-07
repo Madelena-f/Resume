@@ -34,10 +34,12 @@ a:link, a:visited {
   
   a:hover, a:active {
     background-color: gray;
+    color: white;
   }
 
 #sideRight {
     background-color: white;
+    color: black;
     height: 150vh;
     width: 30vw;
     background-image: linear-gradient(to left,white, rgb(114, 114, 114));
@@ -54,7 +56,12 @@ a:link, a:visited {
 #name {
     border-bottom: 1px solid black;
 }
-
+#skills{
+    padding: 10px;
+}
+#list {
+    display: 
+}
 #certification {
     margin: 10px;
     padding: 10px;
