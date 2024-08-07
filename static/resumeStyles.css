@@ -30,3 +30,7 @@ main {
     background-image: linear-gradient(to left,white, rgb(114, 114, 114));
     
 }
+
+#info {
+    display: flex;
+}
