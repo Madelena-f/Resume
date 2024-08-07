@@ -33,4 +33,13 @@ main {
 
 #info {
     display: flex;
+    margin: 10px;
+}
+
+#name {
+    border-bottom: 1px solid black;
+}
+
+#certification {
+    border-left: 1px solid black;
 }
