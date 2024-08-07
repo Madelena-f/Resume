@@ -46,17 +46,17 @@ a:link, a:visited {
 
 #info {
     display: flex;
-    margin: auto;
+    margin: 10px;
 }
 #main {
-    margin: auto;
+    margin: 10px;
 }
 #name {
     border-bottom: 1px solid black;
 }
 
 #certification {
-    margin: auto;
-    padding: auto;
+    margin: 10px;
+    padding: 10px;
     border-left: 1px solid black;
 }
