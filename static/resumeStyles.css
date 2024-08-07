@@ -23,6 +23,19 @@ main {
     
 }
 
+a:link, a:visited {
+    background-color: white;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: gray;
+  }
+
 #sideRight {
     background-color: white;
     height: 150vh;
