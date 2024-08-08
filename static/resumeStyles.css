@@ -2,6 +2,7 @@ body {
     background-color: white;
     display: flex;
     flex-direction: row;
+    min-width: 400px;
 }
 
 main {
