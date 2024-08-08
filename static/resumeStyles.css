@@ -119,6 +119,7 @@ p {
 .card{
     margin: 50px;
     width: 100px;
+    max-height: 300px;
 }
 
 #experience{
