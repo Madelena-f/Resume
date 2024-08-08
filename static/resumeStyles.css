@@ -160,7 +160,4 @@ p {
     .noPrint{
         display: none
     }
-    .print{
-        display: block;
-    }
 }
