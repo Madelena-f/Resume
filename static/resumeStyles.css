@@ -65,6 +65,7 @@ a:link, a:visited {
 }
 #sidebar{
     width: 10vw;
+    margin-left: 0;
 }
 
 #name {
