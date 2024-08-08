@@ -52,6 +52,9 @@ a:link, a:visited {
     background-image: linear-gradient(to left,white, rgb(114, 114, 114));
     
 }
+#header{
+    height: 25vh;
+}
 
 
 #info {
@@ -73,7 +76,7 @@ a:link, a:visited {
 #sideBar{
     width: 15vw;
     margin-left: 0;
-    height: 139vh;
+    height: 125vh;
     background-color: white;
     border-left: 1px solid black;
     border-top: 1px solid black;
