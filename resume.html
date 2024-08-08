@@ -11,32 +11,19 @@
         
         <link href="static/resumeStyles.css" rel="stylesheet" type="text/css">
            
-        <script>
-            function print(){
-                var print = document.getElementByID("print").innerHTML;
-                var original = document.body.innerHTML;
-
-                            
-                document.body.innerHTML = print;
-
-                window.print();
-
-                document.body.innerHTML = original;
-
-            }
-        </script>
+      
         <title>Resume</title>
      </head>
     
     <body>
-        <div id="sideLeft">
+        <div id="sideLeft" class="noPrint">
             
                 <a id="back" href="index.html" >Back</a>
                 
             
         </div>  
 
-        <main id="print">
+        <main class="print">
             <div id="header">
             <div id="name"> <h1>Your Name</h1></div>
             <div id="contact"> <p>xxx-xxx-xxxx</p> <p>youremail@gmail.com</p> </div>
@@ -144,8 +131,8 @@
             
         </main> 
 
-        <div id="sideRight">
-            <button onClick="print()">Print</button>
+        <div id="sideRight" class="noPrint">
+            <button onClick="window.print()">Print</button>
         </div>  
        
     </body>
