@@ -1,5 +1,5 @@
 # Website Resume
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <[URL HERE](https://www.youtube.com/watch?v=LdVaqW8MMd0)
 #### Description:
 
 ### Why this project? 
