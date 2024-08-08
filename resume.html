@@ -8,8 +8,23 @@
     
         <meta name="viewport" content="initial-scale=1, width=device-width">
         
+        
         <link href="static/resumeStyles.css" rel="stylesheet" type="text/css">
-            
+           
+        <script>
+            function print(){
+                var print = document.getElementByID("print").innerHTML;
+                var original = document.body.innerHTML;
+
+                            
+                document.body.innerHTML = print;
+
+                window.print();
+
+                document.body.innerHTML = original;
+
+            }
+        </script>
         <title>Resume</title>
      </head>
     
@@ -21,7 +36,7 @@
             
         </div>  
 
-        <main>
+        <main id="print">
             <div id="header">
             <div id="name"> <h1>Your Name</h1></div>
             <div id="contact"> <p>xxx-xxx-xxxx</p> <p>youremail@gmail.com</p> </div>
@@ -130,7 +145,7 @@
         </main> 
 
         <div id="sideRight">
-            <button onClick="window.print()">Print</button>
+            <button onClick="print()">Print</button>
         </div>  
        
     </body>
