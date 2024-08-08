@@ -79,8 +79,3 @@ main {
     
 }
 
-@media print {
-    .noPrint{
-        display: none
-    }
-}
