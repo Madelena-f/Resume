@@ -7,7 +7,7 @@ body {
 
 main {
     background-color: rgb(220, 159, 255);
-    height: 125vh;
+    height: 175vh;
     min-width: 980px;
     width: 60vw;
     display: flex;
@@ -62,7 +62,7 @@ a:link, a:visited {
 #info {
     display: flex;
     flex-direction: row;
-    min-width: 500px;
+    min-width: 980px;
     width:45;
 }
 
@@ -73,6 +73,7 @@ a:link, a:visited {
     width: 30vw;
     text-align: center;
     border-top: 1px solid black;
+   
     
 }
 #sideBar{
