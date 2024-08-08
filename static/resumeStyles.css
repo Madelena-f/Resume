@@ -67,6 +67,7 @@ a:link, a:visited {
     width: 10vw;
     margin-left: 0;
     height: 150vh;
+    background-color: white;
 }
 
 #name {
@@ -105,6 +106,9 @@ p {
     margin: 50px;
 }
 
+#experiance{
+    background-color: lightslategray;
+}
 
 #certification {
     padding: 50px;
