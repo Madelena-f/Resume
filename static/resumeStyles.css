@@ -56,6 +56,10 @@ a:link, a:visited {
 #name {
     border-bottom: 1px solid black;
 }
+p {
+    padding: 0;
+    margin: 0;
+}
 #skills{
     padding: 10px;
 }
@@ -70,8 +74,9 @@ ul{
     padding: 50px;
 }
 
+
+
 #certification {
-    margin: 10px;
     padding: 10px;
     border-left: 1px solid black;
     background-color: white;
