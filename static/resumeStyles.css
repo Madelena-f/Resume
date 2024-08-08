@@ -53,7 +53,7 @@ a:link, a:visited {
 #info {
     display: flex;
     flex-direction: row;
-    margin: 10px;
+    
 }
 
 #main {
