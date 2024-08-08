@@ -19,7 +19,7 @@ main {
 
 #sideLeft {
     background-color: white;
-    height: 150vh;
+    height: 175vh;
     width: 30vw;
     background-image: linear-gradient(to right,white, rgb(114, 114, 114));
     
@@ -49,7 +49,7 @@ a:link, a:visited {
 #sideRight {
     background-color: white;
     color: black;
-    height: 150vh;
+    height: 175vh;
     width: 30vw;
     background-image: linear-gradient(to left,white, rgb(114, 114, 114));
     
