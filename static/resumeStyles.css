@@ -9,7 +9,7 @@ main {
     background-color: rgb(220, 159, 255);
     height: 175vh;
     min-width: 980px;
-    width: 60vw;
+    width: 980px;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -70,14 +70,15 @@ a:link, a:visited {
    
     display: flex;
     flex-direction: column;
-    width: 45vw;
+    width: 700px;
+    
     text-align: center;
     border-top: 1px solid black;
    
     min-width: 700px;
 }
 #sideBar{
-    width: 15vw;
+    width: 280px;
     margin-left: 0;
     height: 150vh;
     background-color: white;
