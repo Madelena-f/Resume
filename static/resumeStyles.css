@@ -51,6 +51,7 @@ a:link, a:visited {
 
 #info {
     display: flex;
+    flex-direction: column;
     margin: 10px;
 }
 #main {
@@ -77,6 +78,11 @@ p {
 
 ul{
     padding-right: 50px;
+}
+
+#cards {
+    display: flex;
+    flex-direction: column;
 }
 
 
