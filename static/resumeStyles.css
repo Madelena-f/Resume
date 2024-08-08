@@ -57,7 +57,7 @@ a:link, a:visited {
 }
 
 #main {
-    margin: 10px;
+   
     display: flex;
     flex-direction: column;
     width: 30vw;
@@ -108,7 +108,7 @@ p {
 }
 
 #experience{
-    background-color: lightslategray;
+    background-color: lightgray;
 }
 
 #certification {
