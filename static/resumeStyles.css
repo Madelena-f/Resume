@@ -118,9 +118,9 @@ p {
 
 .card{
     margin: 50px;
-    min-width: 100px;
-    min-height: 300px;
-    max-height: 300px;
+    min-width: 300px;
+    min-height: 500px;
+    max-height: 500px;
 }
 
 #experience{
