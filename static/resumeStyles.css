@@ -51,7 +51,7 @@ a:link, a:visited {
 
 #info {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin: 10px;
 }
 #main {
