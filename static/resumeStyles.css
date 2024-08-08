@@ -86,7 +86,7 @@ p {
 #list {
     display: flex;
     flex-direction: row;
-
+    justify-content: center;
 
 }
 
@@ -127,6 +127,9 @@ p {
 .education {
     padding: 50px;
     
+}
+#education {
+    margin: 50px;
 }
 
 #edu {
