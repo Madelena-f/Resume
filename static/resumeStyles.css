@@ -10,7 +10,8 @@ main {
     width: 90vw;
     display: flex;
     flex-direction: column;
-    
+    text-align: center;
+    align-items: center;
     
 }
 
@@ -50,8 +51,8 @@ a:link, a:visited {
 
 
 #info {
-    display: flex;
-    flex-direction: row;
+    display: inline;
+    
     margin: 10px;
 }
 
