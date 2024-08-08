@@ -63,7 +63,7 @@ a:link, a:visited {
     display: flex;
     flex-direction: row;
     min-width: 980px;
-    width: 60vw;
+    width: 980px;
 }
 
 #main {
@@ -134,13 +134,13 @@ p {
 
 #certification {
     padding: 25px;
-    
+    border-left: 1px solid black;
     background-color: white;
 }
 
 #projects{
     background-color: white;
-    
+    border-left: 1px solid black;
     border-top: 1px solid black;
     padding: 25px;
 }
