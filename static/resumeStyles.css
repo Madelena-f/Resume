@@ -125,5 +125,7 @@ p {
 
 .education {
     padding: 50px;
+    display: flex;
+    flex-direction: row;
 }
 
