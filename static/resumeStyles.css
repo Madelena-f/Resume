@@ -7,7 +7,7 @@ body {
 main {
     background-color: rgb(220, 159, 255);
     height: 150vh;
-    width: 90vw;
+    
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -60,11 +60,11 @@ a:link, a:visited {
     margin: 10px;
     display: flex;
     flex-direction: column;
-    width: 60vw;
+    width: 30vw;
     
 }
 #sidebar{
-    width: 30vw;
+    width: 10vw;
 }
 
 #name {
