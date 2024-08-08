@@ -88,10 +88,13 @@ ul{
 #cards {
     display: flex;
     flex-direction: row;
-    margin: 50px;
+    
 }
 
-
+.card{
+    margin: 50px;
+}
+}
 
 #certification {
     padding: 50px;
