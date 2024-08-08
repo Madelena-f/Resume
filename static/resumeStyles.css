@@ -9,6 +9,7 @@ main {
     background-color: rgb(220, 159, 255);
     height: 150vh;
     min-width: 500px;
+    width: 60vw;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -62,7 +63,7 @@ a:link, a:visited {
     display: flex;
     flex-direction: row;
     min-width: 500px;
-    
+    width:45;
 }
 
 #main {
@@ -94,7 +95,7 @@ p {
 #skills{
     padding: 10px;
     margin-top: 10px;
-    
+    width: 
 }
 #list {
     display: flex;
@@ -159,5 +160,8 @@ p {
 @media print {
     .noPrint{
         display: none
+    }
+    .print{
+        display:block;
     }
 }
